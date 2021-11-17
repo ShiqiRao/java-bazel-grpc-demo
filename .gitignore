@@ -1,0 +1,7 @@
+/java-bazel-grpc-thrift-demo.iml
+/.ijwb/
+/.idea/
+/bazel-bin/
+/bazel-java-bazel-grpc-thrift-demo/
+/bazel-out/
+/bazel-testlogs/
